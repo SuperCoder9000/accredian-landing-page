@@ -10,6 +10,7 @@ import FAQ from "../components/FAQ";
 import CTA from "../components/CTA";
 import Footer from "../components/Footer";
 import Testimonials from "../components/Testimonials";
+import Trust from "../components/Trust";
 export default function Home() {
   return (
     <motion.main
@@ -68,6 +69,7 @@ export default function Home() {
         </div>
       </SectionWrapper>
       <Logos />
+      <Trust />
       <HowItWorks />
       <FAQ />
       <Testimonials />
