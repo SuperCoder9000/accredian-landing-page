@@ -23,10 +23,10 @@ A modern, responsive landing page built using Next.js and Tailwind CSS, inspired
 
 ## 📸 Screenshots
 
-![Hero](public/screenshots/home.png)
+![Home](public/screenshots/home.png)
 ![Features](public/screenshots/features.png)
-![Logos](public/screenshots/about.png)
-![FAQ](public/screenshots/contact.png)
+![About](public/screenshots/about.png)
+![Contact](public/screenshots/contact.png)
 
 ## 🚀 Getting Started
 
