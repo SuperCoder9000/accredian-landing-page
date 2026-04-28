@@ -19,7 +19,7 @@ A modern, responsive landing page built using Next.js and Tailwind CSS, inspired
 
 ## 🌐 Live Demo
 
-[https://your-vercel-link.vercel.app](https://accredian-landing-page-one.vercel.app)
+[https://accredian-vercel-link.vercel.app](https://accredian-landing-page-one.vercel.app)
 
 ## 📸 Screenshots
 
