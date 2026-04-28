@@ -41,4 +41,4 @@ This project was built as part of an internship assignment to demonstrate fronte
 
 ## 🙌 Author
 
-Your Name
+SuperCoder9000
